@@ -1,0 +1,61 @@
+#amazon{
+  background-repeat: no-repeat;
+  margin-left: 40%;
+  width: 250px;
+  height: 100px;
+}
+#p1,#p2{
+  text-align: center;
+  font-size: larger;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#watchImg{
+  margin-left: 8%;
+  height: 200px;
+  width: 300px;
+  position: relative;
+}
+#heartRate{
+position: absolute;
+height: 75px;
+width: 99px;
+left:214px;
+bottom:313px;
+border-color: black;
+border-radius: 6px;
+}
+.buttons{
+  height: 40px;
+  margin-left:480px;
+  padding: 3px;
+}
+#bt0{
+  margin-left: 632px;
+  border-radius: 5px;
+  background-color: palegreen;
+}
+#bt1{
+  background-color: red;
+  color: red;
+  border-radius: 5px;
+}
+#bt2{
+  background-color:palevioletred;
+  color: palevioletred;
+  border-radius: 5px;
+}
+#bt3{
+  background-color:black; 
+  color: black;
+  border-radius: 5px;
+}
+#bt4{
+  background-color:blue;
+  color: blue;
+  border-radius: 5px;
+}
+#bt6{
+  background-color:orangered;
+  color: black;
+  border-radius: 5px;
+}
